@@ -7,3 +7,5 @@ To load configurations, run:
 ```
 tmux source-file tmux.conf
 ```
+## Installing plugins
+Press `prefix` + `I` to fetch the plugins
